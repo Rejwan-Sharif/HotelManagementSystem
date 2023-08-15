@@ -12,7 +12,8 @@ Checkout: Facilitates the smooth process of guest departures, including settling
 Deposit Handling: Provides a way to manage guest deposits and refunds during their stay.![deposit](https://github.com/Rejwan-Sharif/HotelManagementSystem/assets/32041388/6bfaa66c-16e7-4fcf-98e3-ede97472a882)
 
 Room Management: Helps in managing room availability, types, and allocations.![searchroom](https://github.com/Rejwan-Sharif/HotelManagementSystem/assets/32041388/b14ef8d8-9b0d-4c41-ae35-91acaa689c16)
-![Uploading addroom.png…]()
+
+
 
 Customer Details: Stores and maintains comprehensive customer information for personalized service.![record](https://github.com/Rejwan-Sharif/HotelManagementSystem/assets/32041388/9d6c1cd8-d6f0-4e95-85a1-f03a99608093)
 
